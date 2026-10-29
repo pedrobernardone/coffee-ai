@@ -46,4 +46,4 @@ Os arquivos enviados são processados apenas na sessão em execução e não sã
 
 ## 👤 Autor
 
-**Pedro Bernardone** — [@pedrobernardone](https://github.com/pedrobernardone)
+**Pedro Bernardone**
